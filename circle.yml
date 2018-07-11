@@ -1,3 +1,4 @@
+
 machine:
   services:
     - docker
@@ -16,4 +17,4 @@ deployment:
 
 general:
   artifacts:
-- /tmp/artifacts/hawkeye_report.json
+    - /tmp/artifacts/hawkeye_report.json
