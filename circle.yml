@@ -13,7 +13,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: staging-spring-tests
+      appname: puc-spring-test-ci
 
 general:
   artifacts:
